@@ -1,0 +1,17 @@
+.idea
+.classpath
+.project
+.settings/
+target/
+*.log*
+*.iml
+.idea/
+*.versionsBackup
+!NOTICE-BIN
+!LICENSE-BIN
+.DS_Store
+.vscode
+.mvn
+mvnw
+mvnw.cmd
+HELP.md
